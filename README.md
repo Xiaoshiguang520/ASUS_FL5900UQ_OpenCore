@@ -1,6 +1,5 @@
 # ASUS_FL5900UQ_OpenCore
 ![华硕FL5900U](https://2c.zol-img.com.cn/product/177_320x240/708/ceysO3b5ljId2.jpg)
-
 配置介绍<br>
 配件参数<br>
 CPU：I7-6500U<br>
