@@ -25,4 +25,4 @@ EFI驱动： 有线网卡√ 无线网卡√ 声卡√ 集显√ 光驱√ 电�
 未驱动硬件
 独立显卡：没有驱动。
 <hr>
-蓝牙修复教程[AR9565 MAC黑苹果Bluetooth蓝牙驱动教程](https://www.longzc.cn/index.php/archives/308)
+AR9565 MAC黑苹果Bluetooth蓝牙驱动教程：https://www.longzc.cn/index.php/archives/308
