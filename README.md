@@ -1,13 +1,13 @@
 # ASUS_FL5900UQ_OpenCore
 ![华硕FL5900U](https://2c.zol-img.com.cn/product/177_320x240/708/ceysO3b5ljId2.jpg)
-</br>
-配置介绍
-配件	参数
-CPU	I7-6500U
-显卡	UHD520核显
-声卡	ALC255
-无线网卡	AR9565
-</br> 
+
+配置介绍<br>
+配件参数<br>
+CPU：I7-6500U<br>
+显卡：UHD520核显<br>
+声卡：ALC255<br>
+无线网卡：AR9565
+
 
 EFI驱动： 有线网卡√ 无线网卡√ 声卡√ 蓝牙√ 集显√ 光驱√ 电池√ 华硕FN键√ 触控板（包括手势）√
 
